@@ -130,27 +130,37 @@ class TrandingList extends Component{
         <div className="title">
           <h1>Top TV picks Jactpack</h1>
           <div className="titles-wrapper">
-          <div class="imgContainer">
-              <img src="https://cdn.shopify.com/s/files/1/0969/9128/products/Joker_-_Joaquin_Phoenix_-_Hollywood_Action_Movie_Poster_08339151-d79a-4b7b-8bc7-dcad04881c2c.jpg?v=1573629460" alt="Avatar" class="trandmovies"/>
+          <div className="imgContainer">
+              <a href="http://s18.uptofiles.net//files/Tamil%20Dubbed%20Collections/Anaconda%20Trilogy%20Collections/Anacondas%20Trail%20Of%20Blood%20(2009)/Mp4%20HD%20(640x360)/Anacondas%20Trail%20Of%20Blood%20(2009)%20HD%20(640x360).mp4" alt="missing link">
+              
+              <img src="https://m.media-amazon.com/images/M/MV5BZGY5MDI5Y2ItNDk2MS00NzJlLWJmMTEtNGYwM2Y4ZjU2MjIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Avatar" className="trandmovies"/>
                 <div className="text">
-                      <h2>Joker_2019</h2>
-                      <h3>9.4/10</h3>
+                      <h2>Anacondas_Trail_of_Blood</h2>
+                      <h3>5.4/10</h3>
                     </div>
-            </div>
-              <div className="imgContainer"> 
-                  <img className="trandmovies" src="https://cdn.shopify.com/s/files/1/0969/9128/products/Midway_2019_-_Ed_Skrein_-_Hollywood_War_WW2_Movie_Poster_e0326fd4-ec9a-48b8-a6f3-c702a01f75bc.jpg?v=1582782838" alt="img missing"/>
+                    
+              </a>
+          </div>
+          <div className="imgContainer"> 
+                <a href="http://d8.uptofiles.site//files/Tamil%20Dubbed%20Movies/Avatar%20(2009)/Avatar%20(640x360)/Avatar%20HD.mp4" alt="missing link" >
+
+                <img className="trandmovies" src="https://www.joblo.com/assets/images/oldsite/posters/images/full/avatar-french-poster.jpg" alt="img missing"/>
                  <div className="text">
-                      <h2>Midway_2019</h2>
+                      <h2>Avatar</h2>
                       <h3>8.4/10</h3>
                     </div>
-                  
+                
+                </a>
                 </div>
-                <div class="imgContainer">
-              <img src="https://www.joblo.com/assets/images/joblo/posters/2019/01/IO-poster-1.jpg" alt="Avatar" class="trandmovies"/>
+                <div className="imgContainer">
+                  <a href="http://d8.uptofiles.site//files/Tamil%20Dubbed%20Collections/%20Iron%20Man%20Trilogy%20Collections/Iron%20Man%203%20(2013)/Iron%20Man%203%20(640x360)/Iron%20Man%203%20HD.mp4" alt="missing link">
+
+                <img src="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" alt="Avatar" className="trandmovies"/>
                 <div className="text">
-                      <h2>IO_2020</h2>
+                      <h2>Iron_Man_3</h2>
                       <h3>8.9/10</h3>
                     </div>
+                    </a>
             </div>
             <div class="imgContainer">
               <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/adventure-movie-poster-template-design-7b13ea2ab6f64c1ec9e1bb473f345547_screen.jpg?ts=1576732289" alt="Avatar" class="trandmovies"/>
